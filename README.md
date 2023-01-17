@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently learning python & frontend web development.<br>🌱 I’m currently Exploring My Skills.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://twitter.com/utkarshub3, https://www.linkedin.com/in/utkarsh-bhagat-79bb141b9/<br>😄 Pronouns: He/His<br>⚡ Fun fact: National Level Tennis player & NCC cadet.
+🔭 I’m Currently learning python & frontend web development.<br>🌱 I’m currently Exploring My Skills.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me:https://www.linkedin.com/in/utkarsh-bhagat-79bb141b9/<br>😄 Pronouns: He/His<br>⚡ Fun fact: National Level Tennis player & NCC cadet.
 
 
 ## 🌐 Socials:
